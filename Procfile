@@ -1,1 +1,1 @@
-web: gunicorn tailings.app:app
+web: gunicorn app:app
