@@ -11,7 +11,7 @@ import json
 from collections import defaultdict
 
 
-engine = create_engine("sqlite:///peizodata.sqlite")
+engine = create_engine("sqlite:///tailings/peizodata.sqlite")
 
 # reflect an existing database into a new model
 Base = automap_base()
