@@ -1,4 +1,5 @@
 # Monitoring of Tailings Dam with Peizometer Readings
+https://tailings.herokuapp.com/Home
 
 Team Members : Masi Maipye, Roxana Ugaz and Shreestina Tamrakar
 
@@ -23,3 +24,38 @@ Our project is based on a real case study of data visualisation of istrumentatio
 * GitHub and Heroku to deploy the webpage
 
 ## Python API routes used to store the data to be used in the visualisation page
+1. This API stored our nodes which represents 5 different VWP
+![Talings_node](tailings/images/nodes.jpg)
+
+2. This API stored details given from readings for every node  which changes with the user input that is used to display the Bar graph and Gauge Chart.
+![Tailings_node38](tailings/images/node38.jpg)
+
+3. This API stored the 330 readings for every node from 2016 to 2021 which is used to display line graph
+![Tailings_samples](tailings/images/Sample38.jpg)
+
+4. This API takes us to our webpage which consists of 3 pages, HOME page, FINDINGS(Dashboard) page and LOCATION page
+https://tailings.herokuapp.com/Home
+
+## Visualisation of the webpage
+![Tailings_Home](tailings/images/Home.jpg)
+![Tailings_Finding](tailings/images/Finding Page.jpg)
+![Tailings_Map](tailings/images/Map.jpg)
+
+## Findings
+* The increment in the pore water pressure is the most important characteristic of the data analysed
+* The readings of piezometers 39, 41 and 42 require further investigation 
+* The fluctuations in pressure at these points indicate the potential risk of saturation in these areas of the dam 
+
+## Functionality of Website
+The Web organizes the data that it is able to identify the following aspects:
+* Piezometer location with georeferenced as well as technical information
+* Any anomalies by tracking pressure fluctuations with the line chart
+* Allows us to see the latest readings through Gauge Chart
+* Easy to compare current reading with the historical max and min.
+
+## Interactivity to client/users understanding of dataset
+It is to understand the data without the use of long and heavy excels where the limit on information impact on the track of the readings.
+They can identify the location of the equipment by visualize it on the map and see which area of the dam is monitoring.
+The dashboard reduces the workload from 3 people to 1 and they can inspected in real time if there is any anomaly on the dam that represent a potential risk.
+
+
