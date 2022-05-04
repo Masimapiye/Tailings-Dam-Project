@@ -38,7 +38,7 @@ https://tailings.herokuapp.com/Home
 
 ## Visualisation of the webpage
 ![Tailings_Home](tailings/images/Home.jpg)
-![Tailings_Finding](tailings/images/Finding Page.jpg)
+![Tailings_Finding](tailings/images/Finding_Page.jpg)
 ![Tailings_Map](tailings/images/Map.jpg)
 
 ## Findings
