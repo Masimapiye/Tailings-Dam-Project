@@ -23,4 +23,4 @@ Our project is based on a real case study of data visualisation of istrumentatio
 * GitHub and Heroku to deploy the webpage
 
 ## Python API routes used to store the data to be used in the visualisation page
-(./tailings/images/nodes.jpg)
+![Talings_node](tailings/images/nodes.jpg)
