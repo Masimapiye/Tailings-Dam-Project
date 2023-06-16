@@ -3,7 +3,7 @@ https://tailings.herokuapp.com/Home
 
 Team Members : Masi Maipye, Roxana Ugaz and Shreestina Tamrakar
 
-Our project is based on a real case study of data visualisation of istrumentation on a Tailings Dam in a mine in Namibia(southern part of Africa). A tailings dam is typically an earth-fill embankment dam used to store byproducts of mining operations after separating the ore from the commercially valueless material. The importance of this project lies in the use of Peizometer which is an instrument which measures water pressure and helps consultants and engineers to verify their design and prove the behaviour of a structure is performing as expected and to prevent the potential risks of Dam Break failures.
+Our project is based on a real case study of data visualisation of instrumentation on a Tailings Dam in a mine in Namibia(southern part of Africa). A tailings dam is typically an earth-fill embankment dam used to store byproducts of mining operations after separating the ore from the commercially valueless material. The importance of this project lies in the use of Peizometer which is an instrument which measures water pressure and helps consultants and engineers to verify their design and prove the behaviour of a structure is performing as expected and to prevent the potential risks of Dam Break failures.
 
 ## Research Scope
 * To build an interactive dashboard to track water pressure readings from peizometer in a tailings dam.
